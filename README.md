@@ -74,6 +74,7 @@ Esto permite **guardar y recuperar los favoritos entre ejecuciones del programa*
 
 ```bash
 git clone https://github.com/JoseeAlonso/Biblioteca-Stephen-King-Programacion-1DAW-Jose-Alonso.git
+```bash
 
 # Para visualizar:
 
