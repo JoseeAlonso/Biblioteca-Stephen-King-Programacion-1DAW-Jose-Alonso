@@ -68,22 +68,23 @@ Esto permite **guardar y recuperar los favoritos entre ejecuciones del programa*
 
 ---
 
+# Para visualizar:
+
+1. Tener un IDE donde pueda ser ejecutado el desarrollo
+2. Abrir el proyecto en el IDE
+3. Interactuar por consola
+
+
+# Posibles errores comunes
+
+1. SDK incompatibles. En uso: Oracle OpenJDK 24.0.2
+   
+
 ## Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
 
 ```bash
 git clone https://github.com/JoseeAlonso/Biblioteca-Stephen-King-Programacion-1DAW-Jose-Alonso.git
-```bash
 
-# Para visualizar:
-
-1. Tener un IDE donde pueda ser ejecutado el desarrollo
-2. Abrir el proyecto en el IDE
-3. Ejecutar/Run main.java
-4. Interactuar por consola
-
-
-# Posibles errores comunes
-
-1. SDK incompatibles. En uso: Oracle OpenJDK 24.0.2
+Ejecutar/Run main.java
